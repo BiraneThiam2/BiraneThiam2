@@ -1,59 +1,32 @@
-## Hi there 👋
-# 👋 Bonjour, je suis El Hadji Birane
+👋 Bonjour, je suis **El Hadji Birane**
 
-## 👨‍💻 Développeur Data | Junior IA & Machine Learning
+🎓 **Étudiant en 1ère année** à l’**Université Swiss UMEF – Campus Dakar**, en **filière Intelligence Artificielle et Stratégie des Affaires**.
+Je suis actuellement en apprentissage et je me forme aux technologies du numérique, à l’analyse de données et à l’IA appliquée aux stratégies business.
 
-Passionné par la donnée, l’analyse et la création de solutions intelligentes.
+💻 **Passionné par le Dev Data et l’IA**, je m’intéresse particulièrement à :
 
----
+* L’**ingénierie des données** : collecte, nettoyage et transformation des données pour les rendre exploitables.
+* L’**analyse de données** : extraction d’informations pertinentes pour la prise de décision.
+* Le **Machine Learning** et l’**Intelligence Artificielle** : création de modèles prédictifs et automatisation intelligente.
+* Les **outils et langages** : Python, SQL, Pandas, NumPy, Scikit-Learn, API, JSON.
+* Les bonnes pratiques en **gestion de projets et stratégie business** appliquées à la data.
 
-## 🛠️ Compétences Techniques
+🚀 **Ce que je fais actuellement :**
 
-* 🐍 **Python**, **Pandas**, **NumPy**
-* 🗄️ **SQL**, **ETL**, **Nettoyage de données**
-* 🤖 **Machine Learning** (Scikit-Learn)
-* 🌐 **API**, **JSON**, **Git & GitHub**
+* Construction de pipelines ETL et préparation de jeux de données pour des projets concrets.
+* Développement de modèles ML simples pour résoudre des problématiques réelles.
+* Exploration de nouvelles technologies pour améliorer mes compétences en Dev Data et IA.
+* Application de concepts de stratégie des affaires pour créer des solutions orientées valeur.
 
----
+🎯 **Mes objectifs :**
 
-## 📌 Projets & Apprentissage
+* Approfondir mes compétences en IA et en Machine Learning avancé.
+* Développer des solutions data complètes, fiables et performantes.
+* Participer à des projets collaboratifs et open-source pour enrichir mon expérience.
+* Allier la Data et la stratégie business pour proposer des solutions innovantes et pertinentes.
 
-* Construction de pipelines ETL
-* Modélisation Machine Learning
-* Analyse de données réelles
-* Automatisation et bonnes pratiques Dev Data
-* Création de projets pour améliorer mes compétences
+📬 **Me contacter :**
+💼 LinkedIn : *https://www.linkedin.com/in/el-hadji-birane-cisse-thiam-1917a9336/*
+📧 Email : *djeumbemalick@gmail.com*
 
----
-
-## 🚀 Objectifs
-
-* Approfondir l’IA et les modèles avancés
-* Développer des solutions data fiables et performantes
-* Participer à des projets collaboratifs ou open-source
-
----
-
-## 📫 Me contacter
-
-💼 LinkedIn : *[mets ton lien]*
-📧 Email : *[mets ton email]*
-
----
-
-⭐ **“Apprendre en construisant.”**
-
-<!--
-**BiraneThiam2/BiraneThiam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **“Apprendre en construisant et transformer les données en solutions intelligentes.”**
