@@ -10,13 +10,7 @@ Je suis actuellement en apprentissage et je me forme aux technologies du numéri
 * Le **Machine Learning** et l’**Intelligence Artificielle** : création de modèles prédictifs et automatisation intelligente.
 * Les **outils et langages** : Python, SQL, Pandas, NumPy, Scikit-Learn, API, JSON.
 * Les bonnes pratiques en **gestion de projets et stratégie business** appliquées à la data.
-
-🚀 **Ce que je fais actuellement :**
-
-* Construction de pipelines ETL et préparation de jeux de données pour des projets concrets.
-* Développement de modèles ML simples pour résoudre des problématiques réelles.
-* Exploration de nouvelles technologies pour améliorer mes compétences en Dev Data et IA.
-* Application de concepts de stratégie des affaires pour créer des solutions orientées valeur.
+  
 
 🎯 **Mes objectifs :**
 
