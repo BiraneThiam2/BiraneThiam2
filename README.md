@@ -21,6 +21,6 @@ Je suis actuellement en apprentissage et je me forme aux technologies du numéri
 
 📬 **Me contacter :**
 💼 LinkedIn : *https://www.linkedin.com/in/el-hadji-birane-cisse-thiam-1917a9336/*
-📧 Email : *djeumbemalick@gmail.com*
+📧 Email : *biranethiam916@gmail.com*
 
 🌟 **“Apprendre en construisant et transformer les données en solutions intelligentes.”**
