@@ -1,4 +1,4 @@
-👋 Bonjour, je suis **El Hadji Birane**
+👋 Bonjour, je suis **El Hadji Birane THIAM**
 
 🎓 **Étudiant en 1ère année** à l’**Université Swiss UMEF – Campus Dakar**, en **filière Intelligence Artificielle et Stratégie des Affaires**.
 Je suis actuellement en apprentissage et je me forme aux technologies du numérique, à l’analyse de données et à l’IA appliquée aux stratégies business.
