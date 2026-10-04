@@ -3,7 +3,7 @@
 **Étudiant en Intelligence Artificielle & Stratégie des Affaires · Data Analyst / Data Engineer en devenir**
 📍 Dakar, Sénégal
 
-Étudiant en 1ʳᵉ année à l'**Université Swiss UMEF – Campus Dakar**, je construis des projets concrets autour de la donnée : collecte, nettoyage, analyse et automatisation. Mon objectif est de relier l'analyse de données et l'IA aux enjeux business pour aider à la prise de décision.
+Étudiant en 2ᵉ année à l'**Université Swiss UMEF – Campus Dakar**, je construis des projets concrets autour de la donnée : collecte, nettoyage, analyse et automatisation. Mon objectif est de relier l'analyse de données et l'IA aux enjeux business pour aider à la prise de décision.
 
 ---
 
