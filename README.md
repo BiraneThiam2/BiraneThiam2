@@ -10,7 +10,7 @@
 ### 🛠️ Compétences
 
 **Langages** — Python, SQL, TypeScript
-**Data** — Pandas, NumPy, Matplotlib, Scikit-Learn
+**Data** — Pandas, NumPy
 **Web & outils** — React, Tailwind CSS, API REST, Sockets, Git / GitHub
 **Domaines** — Analyse exploratoire, Data Engineering, Machine Learning, Automatisation
 
