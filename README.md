@@ -1,6 +1,6 @@
 # El Hadji Birane Cissé Thiam
 
-**Étudiant en Intelligence Artificielle & Stratégie des Affaires · Data Analyst / Data Engineer en devenir**
+**Étudiant en Intelligence Artificielle & Stratégie des Affaires · Data Analyst / Data Engineer en devenir**  
 📍 Dakar, Sénégal
 
 Étudiant en 2ᵉ année à l'**Université Swiss UMEF – Campus Dakar**, je construis des projets concrets autour de la donnée : collecte, nettoyage, analyse et automatisation. Mon objectif est de relier l'analyse de données et l'IA aux enjeux business pour aider à la prise de décision.
@@ -9,9 +9,9 @@
 
 ### 🛠️ Compétences
 
-**Langages** — Python, SQL, TypeScript
-**Data** — Pandas, NumPy
-**Web & outils** — React, Tailwind CSS, API REST, Sockets, Git / GitHub
+**Langages** — Python, SQL, TypeScript  
+**Data** — Pandas, NumPy  
+**Web & outils** — React, Tailwind CSS, API REST, Sockets, Git / GitHub  
 **Domaines** — Analyse exploratoire, Data Engineering, Automatisation  
 **En apprentissage** — Matplotlib, Scikit-Learn, Machine Learning
 
@@ -42,7 +42,7 @@
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-hadji-birane-cisse-thiam-1917a9336/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-hadji-birane-cisse-thiam-1917a9336/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:biranethiam916@gmail.com)
 
 > *« Apprendre en construisant, et transformer les données en solutions intelligentes. »*
