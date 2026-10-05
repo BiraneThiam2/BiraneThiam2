@@ -12,7 +12,8 @@
 **Langages** — Python, SQL, TypeScript
 **Data** — Pandas, NumPy
 **Web & outils** — React, Tailwind CSS, API REST, Sockets, Git / GitHub
-**Domaines** — Analyse exploratoire, Data Engineering, Machine Learning, Automatisation
+**Domaines** — Analyse exploratoire, Data Engineering, Automatisation  
+**En apprentissage** — Matplotlib, Scikit-Learn, Machine Learning
 
 ---
 
